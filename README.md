@@ -23,12 +23,8 @@ But who has time to like every relevant post manually? 🤯 That's where **Linke
 ### 1️⃣ **Clone This Repository**  
 ```bash
 git clone https://github.com/dnyanesh1011/Linked-Post-Like-Automation.git
-```
-
-```bash
 cd Linked-Post-Like-Automation
 ```
-
 
 ### 2️⃣ **Install Required Libraries**  
 Ensure you have Python installed, then install the necessary dependencies:  
@@ -69,7 +65,9 @@ This tool is for **educational and personal use only**.
 ## 🤝 Contribute & Improve!  
 Got ideas to enhance this project? PRs and feedback are welcome! 🎉  
 
-📬 **Contact:** Open an issue or contribute directly!  
+📬 **Contact:**  
+- **Email:** [dnyaneshwarxi@gnail.com](mailto:dnyaneshwarxi@gnail.com)  
+- **LinkedIn:** [Dnyanesh Fulsundar](https://www.linkedin.com/in/dnyaneshfulsundar/)
 
 ---
 
@@ -81,4 +79,4 @@ This project is licensed under the **MIT License**.
 ### 🔥 Updates:
 - **Added `pip install -r requirements.txt`** to simplify dependency installation.  
 - **Included instructions on checking Chrome version & matching ChromeDriver** to avoid errors.  
-- **Linked directly to the GitHub repository** for easy cloning.  
+- **Linked directly to the GitHub repository** for easy cloning.
