@@ -22,8 +22,8 @@ But who has time to like every relevant post manually? 🤯 That's where **Linke
 
 ### 1️⃣ **Clone This Repository**  
 ```bash
-git clone https://github.com/dnyanesh1011/Linked-Post-Like-Automation.git
-cd Linked-Post-Like-Automation
+git clone https://github.com/dnyanesh1011/Linkedin-Post-Like-Automation.git
+cd Linkedin-Post-Like-Automation
 ```
 
 ### 2️⃣ **Install Required Libraries**  
